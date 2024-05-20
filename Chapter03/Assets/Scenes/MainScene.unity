@@ -989,7 +989,7 @@ GameObject:
   - component: {fileID: 489744582}
   - component: {fileID: 489744584}
   - component: {fileID: 489744583}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: LightSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4301,7 +4301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 661230558}
   - component: {fileID: 661230559}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: LightShade (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4363,7 +4363,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 1, g: 0.98039216, b: 0.6666667, a: 0.039215688}
   m_FlipX: 0
@@ -30778,7 +30778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2146722467}
   - component: {fileID: 2146722468}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: LightShade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30840,7 +30840,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 1, g: 0.98039216, b: 0.6666667, a: 0.19607843}
   m_FlipX: 0
